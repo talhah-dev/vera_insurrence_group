@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://verainsurancegroup.com/sitemap.xml
